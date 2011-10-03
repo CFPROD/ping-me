@@ -1,2 +1,2 @@
-hello from ping-me!
+hello from ping-me! Merge results.
 hello again!
